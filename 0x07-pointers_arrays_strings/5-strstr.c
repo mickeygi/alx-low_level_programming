@@ -16,14 +16,14 @@ if (haystack[i + j] == needle[j])
 j++;
 else
 break;
-}								
+}
 if (needle[j])
 {
 i++;
 j = 0;
-}								
-else							
-return (haystack + i);						
+}
+else
+return (haystack + i);
 }
 return (0);
 }
