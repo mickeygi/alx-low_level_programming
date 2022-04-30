@@ -1,1 +1,2 @@
-C - Static libraries
+project C - Static libraries
+
